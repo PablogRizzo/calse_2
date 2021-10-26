@@ -17,6 +17,10 @@ body{
     box-shadow: 5px 5px 5px black;
 }
 
+.container-item:hover{
+    transform: scale(1.1);
+}
+
 img{
     padding: 25px;
     width: 250px;
