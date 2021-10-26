@@ -1,0 +1,19 @@
+
+.container-item{
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 68px;
+    border-radius: 5px;
+}
+
+img{
+    padding: 25px;
+    width: 250px;
+    height: 200px;
+}
+
+.container-img img{
+    border: 2px;
+}
+
