@@ -1,3 +1,10 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.container{
+    margin-left: 100px;
+}
 
 .container-item{
     text-align: center;
@@ -5,6 +12,7 @@
     display: inline-block;
     margin: 68px;
     border-radius: 5px;
+    background-color: cadetblue;
 }
 
 img{
@@ -14,6 +22,5 @@ img{
 }
 
 .container-img img{
-    border: 2px;
+    padding: 0;
 }
-
